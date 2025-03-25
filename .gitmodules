@@ -1,0 +1,3 @@
+[submodule "NSCA3"]
+	path = NSCA3
+	url = https://github.com/skyscrappers/encrypted-chat
